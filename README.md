@@ -52,9 +52,9 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] scar-20
 
 ### grenades and other equipment
-- [ ] he
-- [ ] decoy
-- [ ] flashbang
+- [x] he
+- [x] decoy
+- [x] flashbang
 - [ ] smoke
 - [ ] molotov
 - [ ] incendiary
