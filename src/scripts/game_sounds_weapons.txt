@@ -3229,7 +3229,7 @@
 	"volume"		"0.9"
 	"pitch"			"98, 101"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)weapons/p250/p250_01.wav"
+	"wave"			"weapons/p250/p250-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3265,7 +3265,7 @@
 	"volume"		"1.0"
 	"pitch"			"98, 101"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/p250/p250_distant.wav"
+	"wave"			"weapons/p250/p250-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3292,7 +3292,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p250/p250_clipout.wav"
+	"wave"			"weapons/p250/p250_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3320,7 +3320,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p250/p250_clipin.wav"
+	"wave"			"weapons/p250/p250_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3348,7 +3348,7 @@
 	"volume"		"0.3" //.draw
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p250/p250_draw.wav"
+	"wave"			"weapons/p250/p250_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3375,7 +3375,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p250/p250_sliderelease.wav"
+	"wave"			"weapons/p250/p250_sliderelease.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3402,7 +3402,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p250/p250_slideback.wav"
+	"wave"			"weapons/p250/p250_slideback.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3430,13 +3430,7 @@
 	"volume"		"0.8"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-
-	"rndwave"
-	{
-		"wave"		"`)weapons/cz75a/cz75a_01.wav"
-		"wave"		"`)weapons/cz75a/cz75a_02.wav"
-		"wave"		"`)weapons/cz75a/cz75a_03.wav"
-	}
+	"wave"			"weapons/cz75a/cz75a-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3472,7 +3466,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/cz75a/cz75a_distant.wav"
+	"wave"			"weapons/cz75a/cz75a-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
