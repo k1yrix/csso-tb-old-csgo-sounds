@@ -30,10 +30,12 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] mac10
 - [x] mp9
 - [ ] mp7
-- [ ] mp5-sd
 - [ ] ump-45
 - [ ] p90
 - [x] pp-bizon
+
+> [!NOTE]
+> similar to the r8 revolver, the mp5 is an exception becuase it doesn't exist in csgo on launch. (not until 2018, after the weapon sound overhauls)
 
 ### rifles
 - [ ] galil ar

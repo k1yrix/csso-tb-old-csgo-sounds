@@ -2809,6 +2809,7 @@
 }
 
 // MP5SD
+// !!! SKIP THIS WEAPON !!!
 "Weapon_MP5SD.Single"
 {
 	"channel"		"CHAN_STATIC"
@@ -3499,12 +3500,7 @@
 	"volume"		"0.80"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-
-	"rndwave"
-	{
-		"wave"		"`)weapons/p90/p90_01.wav"
-		"wave"		"`)weapons/p90/p90_02.wav"
-	}
+	"wave" 			"weapons/p90/p90-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3540,7 +3536,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/p90/p90_distant.wav"
+	"wave"			"weapons/p90/p90_distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3567,7 +3563,7 @@
 	"volume"		"1, 1.0"
 	"pitch"			"98, 102"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_cliprelease.wav"
+	"wave"			"weapons/p90/p90_cliprelease.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3594,7 +3590,7 @@
 	"volume"		"1, 1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_clipout.wav"
+	"wave"			"weapons/p90/p90_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3622,7 +3618,7 @@
 	"volume"		"1, 1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_clipin.wav"
+	"wave"			"weapons/p90/p90_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3650,7 +3646,7 @@
 	"volume"		"0.3" //.draw
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_draw.wav"
+	"wave"			"weapons/p90/p90_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3677,7 +3673,7 @@
 	"volume"		"1, 1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_cliphit.wav"
+	"wave"			"weapons/p90/p90_cliphit.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3705,7 +3701,7 @@
 	"volume"		"0.7"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_boltback.wav"
+	"wave"			"weapons/p90/p90_boltback.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3733,7 +3729,7 @@
 	"volume"		"0.8"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/p90/p90_boltforward.wav"
+	"wave"			"weapons/p90/p90_boltforward.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
