@@ -41,11 +41,11 @@ this project is basically porting the csgo old sounds community sound addon from
 ### rifles
 - [x] galil ar
 - [x] famas
-- [ ] ak-47
+- [x] ak-47
 - [x] m4a4
 - [x] m4a1-s
 - [x] ssg 08
-- [ ] sg 553
+- [x] sg 553
 - [x] aug
 - [x] awp
 - [x] g3sg1
