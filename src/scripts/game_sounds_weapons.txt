@@ -6171,7 +6171,7 @@
 	}
 }
 
-"Weapon_M4A4.Draw"
+"Weapon_M4A1.Draw"
 {
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.3" //.draw
