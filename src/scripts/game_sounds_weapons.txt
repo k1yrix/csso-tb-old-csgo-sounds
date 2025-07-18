@@ -6059,7 +6059,7 @@
 	}
 }
 
-"Weapon_M4A4.ClipOut"
+"Weapon_M4A1.ClipOut"
 {
 	"channel"		"CHAN_ITEM"
 	"volume"		"0.7"
@@ -6087,7 +6087,7 @@
 	}
 }
 
-"Weapon_M4A4.ClipIn"
+"Weapon_M4A1.ClipIn"
 {
 	"channel"		"CHAN_ITEM"
 	"volume"		"0.9"
@@ -6174,7 +6174,7 @@
 "Weapon_M4A1.Draw"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"0.3" //.draw
+	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/m4a4/m4a4_draw.wav"
