@@ -3752,7 +3752,7 @@
 	"volume"		"0.8"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)weapons/ssg08/ssg08_01.wav"
+	"wave"			"weapons/ssg08/ssg08-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3797,7 +3797,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/ssg08/ssg08_distant.wav"
+	"wave"			"weapons/ssg08/ssg08-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3824,7 +3824,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_60dB"
-	"wave"			"~weapons/ssg08/ssg08_clipin.wav"
+	"wave"			"weapons/ssg08/ssg08_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3852,7 +3852,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_60dB"
-	"wave"			"~weapons/ssg08/ssg08_clipout.wav"
+	"wave"			"weapons/ssg08/ssg08_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3880,7 +3880,7 @@
 	"volume"		"0.3" //.draw
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/ssg08/ssg08_draw.wav"
+	"wave"			"weapons/ssg08/ssg08_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -3907,7 +3907,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/ssg08/ssg08_boltback.wav"
+	"wave"			"weapons/ssg08/ssg08_boltback.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3935,7 +3935,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/ssg08/ssg08_boltforward.wav"
+	"wave"			"weapons/ssg08/ssg08_boltforward.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -3963,7 +3963,7 @@
 	"volume"		"0.5, 1.0"
 	"pitch"			"97, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/ssg08/ssg08_cliphit.wav"
+	"wave"			"weapons/ssg08/ssg08_cliphit.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4046,12 +4046,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"rndwave"
-	{
-		"wave"		"`weapons/scar20/scar20_01.wav"
-		"wave"		"`weapons/scar20/scar20_02.wav"
-		"wave"		"`weapons/scar20/scar20_03.wav"
-	}
+	"wave"			"weapons/scar20/scar20_unsil-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4096,13 +4091,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
-	"soundlevel"  		"SNDLVL_94dB"
-	"rndwave"
-	{
-		"wave"		"~weapons/scar20/scar20_distant_01.wav"
-		"wave"		"~weapons/scar20/scar20_distant_02.wav"
-		"wave"		"~weapons/scar20/scar20_distant_03.wav"
-	}
+	"soundlevel"  	"SNDLVL_94dB"
+	"wave"			"weapons/scar20/scar20_unsil-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4129,7 +4119,7 @@
 	"volume"		"1.0"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/scar20/scar20_clipout.wav"
+	"wave"			"weapons/scar20/scar20_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4157,7 +4147,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/scar20/scar20_clipin.wav"
+	"wave"			"weapons/scar20/scar20_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4185,7 +4175,7 @@
 	"volume"		"0.3" //.draw
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/scar20/scar20_draw.wav"
+	"wave"			"weapons/scar20/scar20_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4212,7 +4202,7 @@
 	"volume"		"0.7"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_60dB"
-	"wave"			"~weapons/scar20/scar20_boltback.wav"
+	"wave"			"weapons/scar20/scar20_boltback.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4240,7 +4230,7 @@
 	"volume"		"0.7"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_60dB"
-	"wave"			"~weapons/scar20/scar20_boltforward.wav"
+	"wave"			"weapons/scar20/scar20_boltforward.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4268,7 +4258,7 @@
 	"volume"		"0.07"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/scar20/scar20_zoom_in.wav"
+	"wave"			"weapons/scar20/scar20_zoom_in.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4295,7 +4285,7 @@
 	"volume"		"0.0" // what the fuck?
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/weapon_zoom_out.wav"
+	"wave"			"weapons/weapon_zoom_out.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
