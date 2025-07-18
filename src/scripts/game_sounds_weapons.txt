@@ -4307,7 +4307,7 @@
 	"volume"		"0.9"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)weapons/sg553/sg553-1.wav"
+	"wave"			"`)weapons/sg556/sg556-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4343,7 +4343,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/sg553/sg553-1-distant.wav"
+	"wave"			"~weapons/sg556/sg556-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4371,7 +4371,7 @@
 	"volume"		"0.1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/sg553/sg553_zoom_in.wav"
+	"wave"			"~weapons/sg556/sg556_zoom_in.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4424,7 +4424,7 @@
 	"volume"		"1.0"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/sg553/sg553_clipout.wav"
+	"wave"			"~weapons/sg556/sg556_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4452,7 +4452,7 @@
 	"volume"		"1.0"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/sg553/sg553_clipin.wav"
+	"wave"			"~weapons/sg556/sg556_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4480,7 +4480,7 @@
 	"volume"		"0.3" //.draw
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/sg553/sg553_draw.wav"
+	"wave"			"~weapons/sg556/sg556_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4507,7 +4507,7 @@
 	"volume"		"1.0"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/sg553/sg553_boltback.wav"
+	"wave"			"~weapons/sg556/sg556_boltback.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -4536,7 +4536,7 @@
 	"volume"		"1.0"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/sg553/sg553_boltforward.wav"
+	"wave"			"~weapons/sg556/sg556_boltforward.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -9288,6 +9288,7 @@
 }
 
 // REVOLVER
+// !!! DO NOT EDIT THIS WEAPON !!!
 "Weapon_Revolver.Single"
 {
 	"channel"		"CHAN_STATIC"
@@ -9549,12 +9550,7 @@
 	"volume"		"0.9"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_79dB"
-	"rndwave"
-	{
-		"wave"		"`)weapons/ak47/ak47_01.wav"
-		"wave"		"`)weapons/ak47/ak47_02.wav"
-		"wave"		"`)weapons/ak47/ak47_03.wav"
-	}
+	"wave"			"`)wepaons/ak47/ak47-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -9590,7 +9586,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~)weapons/ak47/ak47_distant.wav"
+	"wave"			"~)weapons/ak47/ak47-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
