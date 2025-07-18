@@ -5994,6 +5994,58 @@
 	}
 }
 
+"Weapon_M4A1.SilencerWeaponMove1"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.25"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"  		"SNDLVL_65dB"
+	"wave"			"weapons/movement1.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			"import_stack" "CS_limit_start"
+		}
+
+		"update_stack"
+		{
+			"import_stack" "CS_update_foley"
+			"mixer"
+			{
+				"mixgroup" "FoleyWeapons"
+			}
+		}
+	}
+}
+
+"Weapon_M4A1.SilencerWeaponMove3"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.25"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"  		"SNDLVL_65dB"
+	"wave"			"weapons/movement3.wav"
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			"import_stack" "CS_limit_start"
+		}
+
+		"update_stack"
+		{
+			"import_stack" "CS_update_foley"
+			"mixer"
+			{
+				"mixgroup" "FoleyWeapons"
+			}
+		}
+	}
+}
+
 // M4A4
 // uses the same sounds as the m4a1 unsilenced
 "Weapon_M4A4.Single"
