@@ -43,12 +43,12 @@ this project is basically porting the csgo old sounds community sound addon from
 - [ ] ak-47
 - [ ] m4a4
 - [ ] m4a1-s
-- [ ] ssg 08
+- [x] ssg 08
 - [ ] sg 553
 - [ ] aug
 - [ ] awp
 - [ ] s3sg1
-- [ ] scar-20
+- [x] scar-20
 
 ### grenades and other equipment
 - [ ] he
