@@ -997,7 +997,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/galilar/galilar-1-distant.wav"
+	"wave"			"~weapons/galilar/galil-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"

@@ -38,7 +38,7 @@ this project is basically porting the csgo old sounds community sound addon from
 > similar to the r8 revolver, the mp5 is an exception becuase it doesn't exist in csgo on launch. (not until 2018, after the weapon sound overhauls)
 
 ### rifles
-- [ ] galil ar
+- [x] galil ar
 - [ ] famas
 - [ ] ak-47
 - [ ] m4a4
