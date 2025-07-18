@@ -78,7 +78,7 @@
 "Weapon.AutoSemiAutoSwitch"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"0.5"
+	"volume"		"1"
 	// "pitch"			"150"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"weapons/auto_semiauto_switch.wav"
