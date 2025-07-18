@@ -9550,7 +9550,7 @@
 	"volume"		"0.9"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)wepaons/ak47/ak47-1.wav"
+	"wave"			"`)weapons/ak47/ak47-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
