@@ -10,7 +10,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [ ] p2000
 - [ ] usp
 - [ ] dual elites
-- [ ] p250
+- [x] p250
 - [ ] five-seven
 - [ ] tec-9
 - [ ] desert eagle
@@ -31,7 +31,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] mp9
 - [ ] mp7
 - [ ] ump-45
-- [ ] p90
+- [x] p90
 - [x] pp-bizon
 
 > [!NOTE]
@@ -50,10 +50,12 @@ this project is basically porting the csgo old sounds community sound addon from
 - [ ] s3sg1
 - [ ] scar-20
 
-### grenades
+### grenades and other equipment
 - [ ] he
 - [ ] decoy
 - [ ] flashbang
 - [ ] smoke
 - [ ] molotov
 - [ ] incendiary
+- [ ] c4
+- [ ] zeus taser?
