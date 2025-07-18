@@ -12,9 +12,9 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] dual elites
 - [x] p250
 - [x] cz75-auto
-- [ ] five-seven
-- [ ] tec-9
-- [ ] desert eagle
+- [x] five-seven
+- [x] tec-9
+- [x] desert eagle
 
 > [!NOTE]
 > the r8 revolver is an exception becuase it doesn't exist in csgo on launch. (not until 2015, prior to the weapon sound overhauls)
@@ -40,15 +40,15 @@ this project is basically porting the csgo old sounds community sound addon from
 
 ### rifles
 - [x] galil ar
-- [ ] famas
+- [x] famas
 - [ ] ak-47
 - [x] m4a4
 - [x] m4a1-s
 - [x] ssg 08
-- [x] sg 553
-- [ ] aug
-- [ ] awp
-- [ ] s3sg1
+- [ ] sg 553
+- [x] aug
+- [x] awp
+- [x] g3sg1
 - [x] scar-20
 
 ### grenades and other equipment
