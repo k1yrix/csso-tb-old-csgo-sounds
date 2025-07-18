@@ -29,7 +29,7 @@ this project is basically porting the csgo old sounds community sound addon from
 ### submachines
 - [x] mac10
 - [x] mp9
-- [ ] mp7
+- [x] mp7
 - [ ] ump-45
 - [x] p90
 - [x] pp-bizon
