@@ -79,7 +79,7 @@
 {
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.5"
-	"pitch"			"150"
+	// "pitch"			"150"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"weapons/auto_semiauto_switch.wav"
 
