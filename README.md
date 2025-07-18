@@ -7,10 +7,11 @@ this project is basically porting the csgo old sounds community sound addon from
 ## progress report
 ### pistols
 - [x] glock 18
-- [ ] p2000
-- [ ] usp
+- [x] p2000
+- [x] usp
 - [ ] dual elites
 - [x] p250
+- [x] "the auto pistol"
 - [ ] five-seven
 - [ ] tec-9
 - [ ] desert eagle
@@ -30,7 +31,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] mac10
 - [x] mp9
 - [x] mp7
-- [ ] ump-45
+- [x] ump-45
 - [x] p90
 - [x] pp-bizon
 
@@ -44,7 +45,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [ ] m4a4
 - [ ] m4a1-s
 - [x] ssg 08
-- [ ] sg 553
+- [x] sg 553
 - [ ] aug
 - [ ] awp
 - [ ] s3sg1

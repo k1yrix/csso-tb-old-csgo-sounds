@@ -5243,13 +5243,7 @@
 	"volume"		"1"
 	"pitch"			"99, 101"
 	"soundlevel"  	"SNDLVL_79dB"
-
-	"rndwave"
-	{
-		"wave"		"`)weapons/hkp2000/hkp2000_01.wav"
-		"wave"		"`)weapons/hkp2000/hkp2000_02.wav"
-		"wave"		"`)weapons/hkp2000/hkp2000_03.wav"
-	}
+	"wave"			"`)weapons/hkp2000/hkp2000-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5285,7 +5279,7 @@
 	"volume"		"1.0"
 	"pitch"			"98, 101"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/hkp2000/hkp2000_distant.wav"
+	"wave"			"~weapons/hkp2000/hkp2000-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
