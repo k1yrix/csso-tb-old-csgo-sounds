@@ -5646,7 +5646,7 @@
 {
 	"channel"		"CHAN_STATIC"
 	"volume"		"1.0"
-	"pitch"			"100"
+	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_60dB"
 	"wave"			"`)weapons/m4a1/m4a1_unsil-1.wav"
 
@@ -6053,7 +6053,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"1.0"
 	"pitch"			"120"
-	"soundlevel"  	"SNDLVL_79dB"
+	"soundlevel"  	"SNDLVL_93dB"
 	"wave"			")weapons/m4a1/m4a1_unsil-1.wav"
 
 	"soundentry_version" "2"
