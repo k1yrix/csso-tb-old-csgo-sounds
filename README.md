@@ -9,7 +9,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] glock 18
 - [x] p2000
 - [x] usp
-- [ ] dual elites
+- [x] dual elites
 - [x] p250
 - [x] cz75-auto
 - [ ] five-seven
@@ -42,7 +42,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] galil ar
 - [ ] famas
 - [ ] ak-47
-- [ ] m4a4
+- [x] m4a4
 - [x] m4a1-s
 - [x] ssg 08
 - [x] sg 553
