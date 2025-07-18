@@ -6682,13 +6682,7 @@
 	"volume"		"0.85"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_79dB"
-
-	"rndwave"
-	{
-		"wave"		"`)weapons/famas/famas_01.wav"
-		"wave"		"`)weapons/famas/famas_02.wav"
-		"wave"		"`)weapons/famas/famas_03.wav"
-	}
+	"wave"			"`)weapons/famas/famas-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -6732,7 +6726,7 @@
 	"volume"		"1.0"
 	"pitch"			"105"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/famas/famas_distant.wav"
+	"wave"			"~weapons/famas/famas-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -6960,13 +6954,7 @@
 	"volume"		"0.9"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"rndwave"
-	{
-		"wave"		"`)weapons/aug/aug_01.wav"
-		"wave"		"`)weapons/aug/aug_02.wav"
-		"wave"		"`)weapons/aug/aug_03.wav"
-		"wave"		"`)weapons/aug/aug_04.wav"
-	}
+	"wave"			"`)weapons/aug/aug-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -7002,7 +6990,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/aug/aug_distant.wav"
+	"wave"			"~weapons/aug/aug-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -7251,11 +7239,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"rndwave"
-	{
-		"wave"		"`)weapons/awp/awp_01.wav"
-		"wave"		"`)weapons/awp/awp_02.wav"
-	}
+	"wave"			"weapons/awp/awp1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -7300,7 +7284,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~)weapons/awp/awp_distant.wav"
+	"wave"			"~)weapons/awp/awp1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -7502,7 +7486,7 @@
 	"volume"		"0.1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/awp/awp_zoom.wav"
+	"wave"			"~weapons/awp/zoom.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -8839,11 +8823,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"rndwave"
-	{
-		"wave"		"`)weapons/deagle/deagle_01.wav"
-		"wave"		"`)weapons/deagle/deagle_02.wav"
-	}
+	"wave"			"`)weapons/deagle/deagle-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -8879,7 +8859,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/deagle/deagle_distant.wav"
+	"wave"			"~weapons/deagle/deagle-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
