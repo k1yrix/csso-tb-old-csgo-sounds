@@ -6065,7 +6065,7 @@
 	"volume"		"0.7"
 	"pitch"			"100, 101"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a4/m4a4_clipout.wav"
+	"wave"			"~weapons/m4a1/m4a1_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -6093,7 +6093,7 @@
 	"volume"		"0.9"
 	"pitch"			"100, 105"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a4/m4a4_clipin.wav"
+	"wave"			"~weapons/m4a1/m4a1_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -6121,7 +6121,7 @@
 	"volume"		"0.8"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a4/m4a4_boltback.wav"
+	"wave"			"~weapons/m4a1/m4a1_boltback.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -6149,7 +6149,7 @@
 	"volume"		"0.5"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a4/m4a4_boltforward.wav"
+	"wave"			"~weapons/m4a1/m4a1_boltforward.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -6177,7 +6177,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a4/m4a4_draw.wav"
+	"wave"			"~weapons/m4a1/m4a1_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -6204,7 +6204,7 @@
 	"volume"		"0.9"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a4/m4a4_cliphit.wav"
+	"wave"			"~weapons/m4a1/m4a1_cliphit.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
