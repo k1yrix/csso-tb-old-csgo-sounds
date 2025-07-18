@@ -4307,13 +4307,7 @@
 	"volume"		"0.9"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"rndwave"
-	{
-		"wave"		"`)weapons/sg553/sg553_01.wav"
-		"wave"		"`)weapons/sg553/sg553_02.wav"
-		"wave"		"`)weapons/sg553/sg553_03.wav"
-		"wave"		"`)weapons/sg553/sg553_04.wav"
-	}
+	"wave"			"`)weapons/sg553/sg553-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4349,7 +4343,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/sg553/sg553_distant.wav"
+	"wave"			"~weapons/sg553/sg553-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4571,7 +4565,7 @@
 	"volume"		"1.0"
 	"pitch"			"99, 101"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)weapons/fiveseven/fiveseven_01.wav"
+	"wave"			"`)weapons/fiveseven/fiveseven-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4607,7 +4601,7 @@
 	"volume"		"1.0"
 	"pitch"			"98, 101"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/fiveseven/fiveseven_distant.wav"
+	"wave"			"~weapons/fiveseven/fiveseven-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4772,7 +4766,7 @@
 	"volume"		"0.9"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)weapons/ump45/ump45_01.wav"
+	"wave"			"`)weapons/ump45/ump45-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -4808,7 +4802,7 @@
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/ump45/ump45_distant.wav"
+	"wave"			"~weapons/ump45/ump45-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5005,13 +4999,7 @@
 	"volume"		"0.8"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_79dB"
-
-	"rndwave"
-	{
-		"wave"		"`)weapons/usp/usp_unsilenced_01.wav"
-		"wave"		"`)weapons/usp/usp_unsilenced_02.wav"
-		"wave"		"`)weapons/usp/usp_unsilenced_03.wav"
-	}
+	"wave"			"weapons/usp/usp_unsil-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5044,12 +5032,7 @@
 	"volume"		"0.7"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_73dB"
-	"rndwave"
-	{
-		"wave"		")weapons/usp/usp_01.wav"
-		"wave"		")weapons/usp/usp_02.wav"
-		"wave"		")weapons/usp/usp_03.wav"
-	}
+	"wave"			"weapons/usp/usp1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5119,7 +5102,7 @@
 	"volume"		"0.75"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/usp/usp_silencer_screw_01.wav"
+	"wave"			"~weapons/usp/usp_silencer_screw1.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5147,7 +5130,7 @@
 	"volume"		"0.75"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/usp/usp_silencer_screw_02.wav"
+	"wave"			"~weapons/usp/usp_silencer_screw2.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5175,7 +5158,7 @@
 	"volume"		"0.75"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/usp/usp_silencer_screw_03.wav"
+	"wave"			"~weapons/usp/usp_silencer_screw3.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5203,7 +5186,7 @@
 	"volume"		"0.75"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/usp/usp_silencer_screw_04.wav"
+	"wave"			"~weapons/usp/usp_silencer_screw4.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5231,7 +5214,7 @@
 	"volume"		"0.75"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/usp/usp_silencer_screw_05.wav"
+	"wave"			"~weapons/usp/usp_silencer_screw5.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
