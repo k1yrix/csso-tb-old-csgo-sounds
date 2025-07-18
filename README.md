@@ -55,8 +55,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] he
 - [x] decoy
 - [x] flashbang
-- [ ] smoke
+- [x] smoke
 - [ ] molotov
 - [ ] incendiary
-- [ ] c4
-- [ ] zeus taser?
+- [x] c4

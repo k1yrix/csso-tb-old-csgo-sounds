@@ -10533,8 +10533,9 @@
 	"pitch"			"100"
 	"rndwave"
 	{
-		"wave"		"`)weapons/hegrenade/hegrenade_detonate_01.wav"
-		"wave"		"`)weapons/hegrenade/hegrenade_detonate_02.wav"
+		"wave"		"`)weapons/hegrenade/explode3.wav"
+		"wave"		"`)weapons/hegrenade/explode4.wav"
+		"wave"		"`)weapons/hegrenade/explode5.wav"
 	}
 
 	"soundentry_version" "2"
@@ -10600,9 +10601,9 @@
 	"soundlevel"  	"SNDLVL_130dB"
 	"rndwave"
 	{
-		"wave"		"~weapons/hegrenade/hegrenade_distant_detonate_01.wav"
-		"wave"		"~weapons/hegrenade/hegrenade_distant_detonate_02.wav"
-		"wave"		"~weapons/hegrenade/hegrenade_distant_detonate_03.wav"
+		"wave"		"~weapons/hegrenade/explode3_distant.wav"
+		"wave"		"~weapons/hegrenade/explode4_distant.wav"
+		"wave"		"~weapons/hegrenade/explode5_distant.wav"
 	}
 
 	"soundentry_version" "2"
@@ -10650,7 +10651,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"	"SNDLVL_85dB"
-	"wave"			"~)weapons/smokegrenade/smokegrenade_explode.wav"
+	"wave"			"~)weapons/smokegrenade/sg_explode.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -10691,7 +10692,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_110dB"
-	"wave"			"~)weapons/smokegrenade/smokegrenade_explode_distant.wav"
+	"wave"			"~)weapons/smokegrenade/sg_explode_distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -10755,7 +10756,7 @@
 	"volume"		"0.3"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/smokegrenade/smokegrenade_pinpull.wav"
+	"wave"			"~weapons/smokegrenade/pinpull.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -10787,7 +10788,7 @@
 	"volume"		"0.3"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/smokegrenade/smokegrenade_pinpull_start.wav"
+	"wave"			"~weapons/smokegrenade/pinpull_start.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -10857,7 +10858,7 @@
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			")weapons/smokegrenade/smokegrenade_throw.wav"
+	"wave"			")weapons/smokegrenade/grenade_throw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -10883,6 +10884,7 @@
 	}
 }
 
+// C4 EXPLOSIVE
 "Weapon_C4.Initiate"
 {
 	"channel"		"CHAN_STATIC"
@@ -10951,7 +10953,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.7"
 	"soundlevel"	"SNDLVL_85dB"
-	"wave"			"~)weapons/c4/c4_disarmstart.wav"
+	"wave"			"~)weapons/c4/c4_disarm.wav"
 
 	"ignore_occlusion" "1"
 	"soundentry_version" "2"
@@ -10983,7 +10985,7 @@
 	"channel"		"CHAN_ITEM"
 	"volume"		"0.7"
 	"soundlevel"	"SNDLVL_85dB"
-	"wave"			"~)weapons/c4/c4_disarmfinish.wav"
+	"wave"			"~)weapons/c4/c4_disarm.wav"
 
 	"ignore_occlusion" "1"
 	"soundentry_version" "2"
@@ -11010,7 +11012,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"			"weapons/c4/c4_explode.wav"
+	"wave"			"weapons/c4/c4_explode1.wav"
 }
 
 "Weapon_C4.ExplodeTraining"
@@ -11053,7 +11055,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.9"
 	"soundlevel"	"SNDLVL_60dB"
-	"wave"			"~weapons/c4/c4_beep_01.wav"
+	"wave"			"~weapons/c4/c4_beep1.wav"
 
 	"ignore_occlusion" "1"
 }
@@ -11063,7 +11065,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.9"
 	"soundlevel"	"SNDLVL_60dB"
-	"wave"			"~weapons/c4/c4_beep_01_10sec.wav"
+	"wave"			"~weapons/c4/c4_beep1.wav"
 
 	"ignore_occlusion" "1"
 }
@@ -11072,9 +11074,9 @@
 {
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.5"
-	"pitch"			"90"
+	"pitch"			"PITCH_NORM"
 	"soundlevel"	"SNDLVL_60dB"
-	"wave"			"~weapons/c4/c4_beep_02.wav"
+	"wave"			"~weapons/c4/c4_beep1.wav"
 
 	"ignore_occlusion" "1"
 }
@@ -11083,9 +11085,9 @@
 {
 	"channel"		"CHAN_STATIC"
 	"volume"		"0.6"
-	"pitch"			"90"
+	"pitch"			"PITCH_NORM"
 	"soundlevel"	"SNDLVL_60dB"
-	"wave"			"~weapons/c4/c4_beep_02_10sec.wav"
+	"wave"			"~weapons/c4/c4_beep1.wav"
 
 	"ignore_occlusion" "1"
 }
@@ -11171,6 +11173,7 @@
 	"wave"	"items/suitchargeok1.wav"
 }
 
+// MOLOTOV
 "Weapon_Molotov.Bounce"
 {
 	"soundlevel"	"CHAN_STATIC"
