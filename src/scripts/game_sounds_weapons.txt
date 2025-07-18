@@ -5445,7 +5445,7 @@
 	"volume"		"0.8"
 	"pitch"			"99, 101"
 	"soundlevel"  	"SNDLVL_79dB"
-	"wave"			"`)weapons/tec9/tec9_01.wav"
+	"wave"			"`)weapons/tec9/tec9-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5481,7 +5481,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"wave"			"~weapons/tec9/tec9_distant.wav"
+	"wave"			"~weapons/tec9/tec9-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5648,14 +5648,7 @@
 	"volume"		"1.0"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_60dB"
-
-	"rndwave"
-	{
-		"wave"		"`)weapons/m4a1/m4a1_01.wav"
-		"wave"		"`)weapons/m4a1/m4a1_02.wav"
-		"wave"		"`)weapons/m4a1/m4a1_03.wav"
-		"wave"		"`)weapons/m4a1/m4a1_04.wav"
-	}
+	"wave"			"`)weapons/m4a1/m4a1_unsil-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5691,12 +5684,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_94dB"
-	"rndwave"
-	{
-		"wave"		"~weapons/m4a1/m4a1_distant_01.wav"
-		"wave"		"~weapons/m4a1/m4a1_distant_02.wav"
-		"wave"		"~weapons/m4a1/m4a1_distant_03.wav"
-	}
+	"wave"			"~weapons/m4a1/m4a1_unsil-1-distant.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5718,7 +5706,7 @@
 	"volume"		"0.9"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_73dB"
-	"wave"			"`)weapons/m4a1/m4a1_silencer_01.wav"
+	"wave"			"`)weapons/m4a1/m4a1-1.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -5872,7 +5860,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a1/m4a1_silencer_screw_01.wav"
+	"wave"			"~weapons/m4a1/m4a1_silencer_screw_1.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5900,7 +5888,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a1/m4a1_silencer_screw_02.wav"
+	"wave"			"~weapons/m4a1/m4a1_silencer_screw_2.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5928,7 +5916,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a1/m4a1_silencer_screw_03.wav"
+	"wave"			"~weapons/m4a1/m4a1_silencer_screw_3.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5956,7 +5944,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a1/m4a1_silencer_screw_04.wav"
+	"wave"			"~weapons/m4a1/m4a1_silencer_screw_4.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -5984,7 +5972,7 @@
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/m4a1/m4a1_silencer_screw_05.wav"
+	"wave"			"~weapons/m4a1/m4a1_silencer_screw_5.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"

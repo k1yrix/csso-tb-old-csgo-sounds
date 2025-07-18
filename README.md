@@ -11,7 +11,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] usp
 - [ ] dual elites
 - [x] p250
-- [x] "the auto pistol"
+- [x] cz75-auto
 - [ ] five-seven
 - [ ] tec-9
 - [ ] desert eagle
@@ -43,7 +43,7 @@ this project is basically porting the csgo old sounds community sound addon from
 - [ ] famas
 - [ ] ak-47
 - [ ] m4a4
-- [ ] m4a1-s
+- [x] m4a1-s
 - [x] ssg 08
 - [x] sg 553
 - [ ] aug
