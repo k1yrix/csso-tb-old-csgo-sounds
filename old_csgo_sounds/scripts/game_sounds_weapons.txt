@@ -621,7 +621,7 @@
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/g3sg1/g3sg1_zoom_in.wav"
+	"wave"			"~weapons/g3sg1/zoom.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -648,7 +648,7 @@
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~)weapons/g3sg1/g3sg1_zoom_in.wav"
+	"wave"			"~)weapons/g3sg1/zoom.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
