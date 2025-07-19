@@ -618,7 +618,7 @@
 "Weapon_G3SG1.ZoomIn"
 {
 	"channel"		"CHAN_ITEM"
-	"volume"		"0.05"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/g3sg1/g3sg1_zoom_in.wav"
@@ -645,7 +645,7 @@
 "Weapon_G3SG1.ZoomOut"
 {
 	"channel"		"CHAN_ITEM"
-	"volume"		"0.05"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~)weapons/weapon_zoom_out.wav"
@@ -4009,7 +4009,7 @@
 "Weapon_SSG08.ZoomOut"
 {
 	"channel"		"CHAN_ITEM"
-	"volume"		"0.1"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/weapon_zoom_out.wav"
@@ -4276,7 +4276,7 @@
 "Weapon_SCAR20.ZoomOut"
 {
 	"channel"		"CHAN_ITEM"
-	"volume"		"0" // what the fuck?
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/weapon_zoom_out.wav"
@@ -4368,7 +4368,7 @@
 "Weapon_SG553.ZoomIn"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"0.1"
+	"volume"		"0.4"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/sg556/sg556_zoom_in.wav"
@@ -4394,7 +4394,7 @@
 "Weapon_SG553.ZoomOut"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"0.1"
+	"volume"		"0.6"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~)weapons/weapon_zoom_out.wav"
@@ -7015,7 +7015,7 @@
 "Weapon_AUG.ZoomIn"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"0.05"
+	"volume"		"0.4"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/aug/aug_zoom_in.wav"
@@ -7042,7 +7042,7 @@
 "Weapon_AUG.ZoomOut"
 {
 	"channel"		"CHAN_STATIC"
-	"volume"		"0.3"
+	"volume"		"0.6"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/aug/aug_zoom_out.wav"
