@@ -7483,7 +7483,7 @@
 "Weapon_AWP.Zoom"
 {
 	"channel"		"CHAN_ITEM"
-	"volume"		"0.1"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
 	"wave"			"~weapons/awp/zoom.wav"
