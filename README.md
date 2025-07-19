@@ -56,6 +56,6 @@ this project is basically porting the csgo old sounds community sound addon from
 - [x] decoy
 - [x] flashbang
 - [x] smoke
-- [ ] molotov
-- [ ] incendiary
+- [x] molotov
+- [x] incendiary
 - [x] c4
