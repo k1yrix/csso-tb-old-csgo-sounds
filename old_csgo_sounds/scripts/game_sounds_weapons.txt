@@ -4397,7 +4397,7 @@
 	"volume"		"0.6"
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~)weapons/weapon_zoom_out.wav"
+	"wave"			"~)weapons/sg556/sg556_zoom_out.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
