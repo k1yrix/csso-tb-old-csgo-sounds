@@ -1,6 +1,8 @@
 # Counter-Strike: Source Offensive Test Build - Old CS:GO Sounds
 
-this project is basically porting the csgo old sounds community sound addon from CSSO 1.1 (image below) to the CSSO Test Builds
+this project is basically porting the csgo old sounds community sound addon from CSSO 1.1 (image below) to the CSSO Test Builds.
+
+the only differences is that this port uses the sound script based from the vanilla sound script and doesn't use recompiled models.
 
 ![the screenshot of the community addon entry for csgo old ounds](aaaaaa.png)
 
@@ -15,6 +17,12 @@ this project is basically porting the csgo old sounds community sound addon from
 6. drag the `old_csgo_sounds` folder into `custom`
 7. restart cs: source if you haven't already
 8. happy banging noises 🎉
+
+---
+
+## credits
+- **pimon** // the creator of this awesome cs: source mod and the original author for the sound addon
+- **valve** // the sounds of the literal banging noises in your head
 
 ---
 
