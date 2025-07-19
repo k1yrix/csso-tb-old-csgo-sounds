@@ -1,0 +1,6 @@
+how to install this [EN]
+
+1. open the root of where you put your source offensive beta test build (usually in the root of cs: source as defined in the installation instructions)
+2. drag "old_csgo_sounds" folder into the "custom" folder
+3. restart csso if you haven't already
+4. happy hearing all those banging sounds :)
