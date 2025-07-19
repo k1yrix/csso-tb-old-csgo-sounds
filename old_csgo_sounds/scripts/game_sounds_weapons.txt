@@ -8886,7 +8886,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/deagle/deagle_clipout.wav"
+	"wave"			"~weapons/deagle/de_clipout.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -8914,7 +8914,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/deagle/deagle_clipin.wav"
+	"wave"			"~weapons/deagle/de_clipin.wav"
 
 	"soundentry_version" "2"
 	"hrtf_follow" "1"
@@ -8942,7 +8942,7 @@
 	"volume"		"0.3" //.draw
 	"pitch"			"PITCH_NORM"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/deagle/deagle_draw.wav"
+	"wave"			"~weapons/deagle/de_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -8969,7 +8969,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/deagle/deagle_slideback.wav"
+	"wave"			"~weapons/deagle/de_slideback.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -8996,7 +8996,7 @@
 	"volume"		"1"
 	"pitch"			"100"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/deagle/deagle_sliderelease.wav"
+	"wave"			"~weapons/deagle/de_sliderelease.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -9023,7 +9023,7 @@
 	"volume"		"0.05, 0.1"
 	"pitch"			"98, 101"
 	"soundlevel"  	"SNDLVL_65dB"
-	"wave"			"~weapons/deagle/deagle_draw.wav"
+	"wave"			"~weapons/deagle/de_draw.wav"
 
 	"soundentry_version" "2"
 	"operator_stacks"
@@ -9288,7 +9288,7 @@
 }
 
 // REVOLVER
-// !!! DO NOT EDIT THIS WEAPON !!!
+// !!! SKIP THIS WEAPON !!!
 "Weapon_Revolver.Single"
 {
 	"channel"		"CHAN_STATIC"
