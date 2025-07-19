@@ -4,6 +4,20 @@ this project is basically porting the csgo old sounds community sound addon from
 
 ![the screenshot of the community addon entry for csgo old ounds](aaaaaa.png)
 
+---
+
+## install?
+1. download this entire repository (the only thing you need to worry is the big folder)
+2. unzip the repository
+3. find your csso installation (usually in the root of cs: source)
+4. open csso's content folder (`csso`)
+5. open the repository's folder
+6. drag the `old_csgo_sounds` folder into `custom`
+7. restart cs: source if you haven't already
+8. happy banging noises 🎉
+
+---
+
 ## progress report
 ### pistols
 - [x] glock 18
