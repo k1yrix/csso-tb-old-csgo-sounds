@@ -11693,8 +11693,8 @@
 	"rndwave"
 	{
 		"wave"		"weapons/molotov/fire_ignite_1.wav"
-		"wave"		"weapons/molotov/fire_ignite_3.wav"
 		"wave"		"weapons/molotov/fire_ignite_4.wav"
+		"wave"		"weapons/molotov/fire_ignite_5.wav"
 	}
 
 	"soundentry_version" "2"
