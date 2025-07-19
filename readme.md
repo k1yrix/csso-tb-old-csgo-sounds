@@ -11,9 +11,9 @@ the only differences is that this port uses the sound script based from the vani
 ## install?
 1. download this entire repository (the only thing you need to worry is the big folder)
 2. unzip the repository
-3. find your csso installation (usually in the root of cs: source)
-4. open csso's content folder (`csso`)
-5. open the repository's folder
+3. open another file explorer window and find your csso installation (usually in the root of cs: source)
+4. open csso's content folder (`csso`) then its `custom` folder
+5. in the previous file explorer window, open the repository's folder
 6. drag the `old_csgo_sounds` folder into `custom`
 7. restart cs: source if you haven't already
 8. happy banging noises 🎉
