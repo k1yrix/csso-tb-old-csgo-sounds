@@ -1,6 +1,6 @@
-# Counter-Strike: Source Offensive Test Build - Old CS:GO Sounds
+# Counter-Strike: Source Offensive v2 - Old CS:GO Sounds
 
-this project is basically porting the csgo old sounds community sound addon from CSSO 1.1 (image below) to the CSSO Test Builds.
+this project is basically porting the csgo old sounds community sound addon from CSSO 1.1 (image below) to CSSO v2.
 
 (disclaimer: this does not include old UI sounds, that's for another project)
 
